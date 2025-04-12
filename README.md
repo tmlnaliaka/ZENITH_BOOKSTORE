@@ -1,6 +1,6 @@
 # Zenith BookStore Database
 
-## MEMBERS
+## ZENITH GROUP MEMBERS
 2. Jane Mutegi - janealxvassistant@gmail.com
 1. Sophy Naliaka - sofiawaf05@gmail.com
 2. Rodney Aminga - greyheartv@gmail.com
