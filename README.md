@@ -1,9 +1,9 @@
 # Zenith BookStore Database
 
 ## ZENITH GROUP MEMBERS
-2. Jane Mutegi - janealxvassistant@gmail.com
-1. Sophy Naliaka - sofiawaf05@gmail.com
-2. Rodney Aminga - greyheartv@gmail.com
+1. Jane Mutegi - janealxvassistant@gmail.com
+2. Sophy Naliaka - sofiawaf05@gmail.com
+3. Rodney Aminga - greyheartv@gmail.com
 
 ## Overview
 The **BookStore** database is a MySQL relational database designed for managing an online bookstore with a focus on an African (primarily Kenyan) context. It supports inventory management, customer management, order processing, and order tracking. The database includes sample data reflecting African based names, addresses, and culturally relevant books.
