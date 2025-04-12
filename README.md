@@ -6,7 +6,7 @@
 2. Rodney Aminga - greyheartv@gmail.com
 
 ## Overview
-The `BookStore` database is a MySQL relational database designed for managing an online bookstore with a focus on an African (primarily Kenyan) context. It supports inventory management, customer management, order processing, and order tracking. The database includes sample data reflecting African based names, addresses, and culturally relevant books.
+The **BookStore** database is a MySQL relational database designed for managing an online bookstore with a focus on an African (primarily Kenyan) context. It supports inventory management, customer management, order processing, and order tracking. The database includes sample data reflecting African based names, addresses, and culturally relevant books.
 
 ### Key Features
 - **Tables**: 14 tables covering books, authors, customers, orders, addresses, and more.
