@@ -165,6 +165,9 @@ GRANT SELECT ON bookstore.order_status TO 'BookStore_employee'@'zenith.com';
 -- Flush privileges to apply changes
 FLUSH PRIVILEGES;
 
+--  Revoke  specific  privileges  from  employee  user 
+REVOKE  INSERT  ,  UPDATE  ON  bookstore.cust_order  FROM  'Bookstore_employee'@'zenith.com";
+
 -- 1. Independent Tables
 -- Country
 INSERT INTO country (country_name) VALUES 
